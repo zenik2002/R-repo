@@ -1,4 +1,4 @@
 R-repo
 ======
-It is test project.
+It is testing project.
 R language - repo
